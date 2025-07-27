@@ -1,54 +1,56 @@
-# 🔢 Cpp-IDGenerator-MathTool - Console Application
+# 📚 Cpp-Learning-Fundamentals - A Collection of C++ Learning Projects
 
-[![License](https://img.shields.io/github/license/JonatanKovalik/Cpp-IDGenerator-MathTool?style=flat)](https://github.com/JonatanKovalik/Cpp-IDGenerator-MathTool/blob/main/LICENSE)
-[![GitHub last commit](https://img.shields.io/github/last-commit/JonatanKovalik/Cpp-IDGenerator-MathTool?style=flat)](https://github.com/JonatanKovalik/Cpp-IDGenerator-MathTool/commits/main)
-[![GitHub top language](https://img.shields.io/github/languages/top/JonatanKovalik/Cpp-IDGenerator-MathTool?style=flat)](https://github.com/JonatanKovalik/Cpp-IDGenerator-MathTool)
+[![License](https://img.shields.io/github/license/JonatanKovalik/Cpp-Learning-Fundamentals?style=flat)](https://github.com/JonatanKovalik/Cpp-Learning-Fundamentals/blob/main/LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/JonatanKovalik/Cpp-Learning-Fundamentals?style=flat)](https://github.com/JonatanKovalik/Cpp-Learning-Fundamentals/commits/main)
+[![GitHub top language](https://img.shields.io/github/languages/top/JonatanKovalik/Cpp-Learning-Fundamentals?style=flat)](https://github.com/JonatanKovalik/Cpp-Learning-Fundamentals)
 
 ## 📜 Project Overview
 
-This repository contains a console application written in C++ that serves two primary purposes: generating simple random IDs and performing basic mathematical operations. It demonstrates fundamental C++ programming concepts such as user input, conditional logic, loops, functions, and basic console interaction, including changing text colors for a more engaging user experience.
+This repository is a collection of my initial C++ learning exercises and small console applications, demonstrating fundamental programming concepts and basic problem-solving skills in C++. It's a journey through my early explorations with the C++ language.
 
-## ✨ Key Features
+## ✨ Projects Included
 
-* **Random ID Generation:** Generates a 5-digit random ID based on user-provided personal details (which are then used only for presentation).
-* **Basic Math Operations:** Allows users to perform addition, subtraction, multiplication, division, exponentiation (using `pow`), and floor division.
-* **Multi-part Addition:** Supports adding up to 5 numbers in a single addition operation.
-* **Interactive Console UI:** Utilizes `Windows.h` to clear the console and apply colored text for improved readability and user experience.
-* **User Input Handling:** Prompts the user for various inputs and guides them through the application's functions.
+* **ID Generator & Math Tool:** This is my first comprehensive C++ console application. It allows users to generate a simple 5-digit random ID after providing some personal details (which are used only for presentation). Additionally, it functions as a basic math tool, enabling users to perform addition (including multi-part addition for up to 5 numbers), subtraction, multiplication, division, exponentiation (`**`), and integer division (`//`). The application also features interactive console output with colored text for a better user experience.
+* **[Add other C++ learning exercises or small projects here, if you add more files to this repository in the future.]**
+    * [Brief description of another project if applicable]
 
 ## 🛠️ Technologies Used
 
 * **Language:** C++
 * **Libraries:** `iostream`, `cstdlib`, `ctime`, `string`, `Windows.h`, `math.h`, `vector`
-* **Compiler:** [e.g., MSVC (via Visual Studio 2022)]
+* **Compiler:** MSVC (via Visual Studio 2022)
 * **IDE:** Visual Studio 2022
 * **Version Control:** Git, GitHub
 
 ## 🚀 How to Compile and Run
 
-To compile and run this application, you will need a C++ compiler (like MSVC available with Visual Studio).
+To compile and run the projects within this repository, you will need a C++ compiler (like MSVC available with Visual Studio).
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/JonatanKovalik/Cpp-IDGenerator-MathTool.git](https://github.com/JonatanKovalik/Cpp-IDGenerator-MathTool.git)
+    git clone [https://github.com/JonatanKovalik/Cpp-Learning-Fundamentals.git](https://github.com/JonatanKovalik/Cpp-Learning-Fundamentals.git)
     ```
-2.  **Open in Visual Studio:** Open the `Cpp-IDGenerator-MathTool.sln` (or equivalent) solution file in Visual Studio 2022. If no solution file exists, create a new C++ Console Application project and add the `.cpp` file(s) to it.
-3.  **Build the Project:** Go to `Build > Build Solution` or press `Ctrl+Shift+B`.
-4.  **Run the Application:** Go to `Debug > Start Debugging` or press `F5`. The application will run in a console window.
+2.  **Navigate to the project folder:**
+    ```bash
+    cd Cpp-Learning-Fundamentals
+    ```
+3.  **Open in Visual Studio:** Open the solution file (`.sln`) associated with the project you wish to run (e.g., `FirstCodeC++.sln` for the ID Generator & Math Tool). If no solution file exists or you are working with a single `.cpp` file, create a new C++ Console Application project in Visual Studio and add the relevant `.cpp` file(s) to it.
+4.  **Build the Project:** Go to `Build > Build Solution` or press `Ctrl+Shift+B`.
+5.  **Run the Application:** Go to `Debug > Start Debugging` or press `F5`. The application will run in a console window.
 
 ## 🧠 Learning & Challenges
 
-This project was a fundamental exercise in C++ programming. It helped me learn and practice:
+This repository documents my early learning experiences and the challenges I encountered while grasping core C++ concepts. Specifically, in the **ID Generator & Math Tool**, I learned and practiced:
 
 * Basic input/output operations (`std::cin`, `std::cout`).
 * Conditional logic (`if-else` statements) and loops (`for`).
-* Function definitions and calls.
+* Function definitions and calls to organize code.
 * String manipulation and type conversions (`std::to_string`).
-* Working with basic data structures like arrays and `std::vector`.
-* Utilizing system-specific libraries (`Windows.h`) for console enhancements.
-* Implementing simple random number generation.
+* Working with basic data structures like arrays and `std::vector` for dynamic storage.
+* Utilizing system-specific libraries (`Windows.h`) for console enhancements like clearing the screen and applying colored text.
+* Implementing simple random number generation (`srand`, `rand`).
 
-A particular challenge was [describe a specific challenge, e.g., ensuring robust error handling for user input, implementing the multi-part addition efficiently], which I addressed by [explain your solution, e.g., adding more input validation, using a loop and `std::vector` for dynamic additions].
+Each small project, like the ID Generator & Math Tool, presented unique problem-solving opportunities and helped solidify my foundational understanding of the language.
 
 ## 📄 License
 
