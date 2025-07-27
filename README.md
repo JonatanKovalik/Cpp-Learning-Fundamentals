@@ -1,8 +1,8 @@
 # 🔢 Cpp-IDGenerator-MathTool - Console Application
 
-[![License](https://img.shields.io/github/license/JonatanKovalik/Cpp-Learning-Fundamentals?style=flat)](https://github.com/JonatanKovalik/Cpp-Learning-Fundamentals/blob/main/LICENSE)
-[![GitHub last commit](https://img.shields.io/github/last-commit/JonatanKovalik/Cpp-Learning-Fundamentals?style=flat)](https://github.com/JonatanKovalik/Cpp-Learning-Fundamentals/commits/main)
-[![GitHub top language](https://img.shields.io/github/languages/top/JonatanKovalik/Cpp-Learning-Fundamentals?style=flat)](https://github.com/JonatanKovalik/Cpp-Learning-Fundamentals)
+[![License](https://img.shields.io/github/license/JonatanKovalik/Cpp-IDGenerator-MathTool?style=flat)](https://github.com/JonatanKovalik/Cpp-IDGenerator-MathTool/blob/main/LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/JonatanKovalik/Cpp-IDGenerator-MathTool?style=flat)](https://github.com/JonatanKovalik/Cpp-IDGenerator-MathTool/commits/main)
+[![GitHub top language](https://img.shields.io/github/languages/top/JonatanKovalik/Cpp-IDGenerator-MathTool?style=flat)](https://github.com/JonatanKovalik/Cpp-IDGenerator-MathTool)
 
 ## 📜 Project Overview
 
